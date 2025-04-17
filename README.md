@@ -12,11 +12,14 @@
  A project that shows a list of recipes from different country’s cuisine types.
 
 # Description
-<p>The Recipe project has two tab option one is for  displays recipes from different country’s cuisine types and the other is about the comany. It is designed using SwiftUI to take advantage of its capabilities.
+<p>The Recipe project has two tab option one is for  displays recipes from different country’s cuisine types and the other is about the company. It is designed using SwiftUI to take advantage of its capabilities.
 
 The project consists of displaying a recipe list that shows the cuisine, name and photo of the recipe.
 <p align="center">
   <img src="images/RecipeList.png" alt="Recipes List" width="400" height="600">
+</p>
+<p align="center">
+  <img src="images/About.png" alt="Recipes List" width="400" height="600">
 </p>
 
 <p>When the user selects (taps) in any of the recipes a new view is displayed with the recipe’s details. 
