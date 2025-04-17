@@ -34,7 +34,10 @@ The project consists of displaying a recipe list that shows the cuisine, name an
 
 You can go back to the app just press in the top of the left corner when the name of the app is displayed (Recipe).</p>
 <p>The app only displays the buttons if the recipe has a source or a YouTube link.
-
+ 
+ <p align="center">
+  <img src="images/Scenario.png" alt="Recipes Details" width="400" height="600">
+</p>
 
 
 </p>
