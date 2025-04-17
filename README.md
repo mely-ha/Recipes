@@ -15,13 +15,29 @@
 <p>The Recipe project has two tab option one is for  displays recipes from different country’s cuisine types and the other is about the comany. It is designed using SwiftUI to take advantage of its capabilities.
 
 The project consists of displaying a recipe list that shows the cuisine, name and photo of the recipe.
+<p align="center">
+  <img src="images/RecipeList.png" alt="Recipes List" width="400" height="600">
+</p>
+
+<p>When the user selects (taps) in any of the recipes a new view is displayed with the recipe’s details. 
+ 
+ <p align="center">
+  <img src="images/RecipeDetails.png" alt="Recipes Details" width="400" height="600">
+</p>
+
+ If the recipe has a source or a YouTube channel the user can press the button and the app will redirect you to the site.
+ <p align="center">
+  <img src="images/WebSite.png" alt="Recipe's Website" width="400" height="600" padding-right:10px">
+   <img src="images/Youtube.png" alt="Recipe's Youtube" width="400" height="600">
+</p>
+
+
+You can go back to the app just press in the top of the left corner when the name of the app is displayed (Recipe).</p>
+<p>The app only displays the buttons if the recipe has a source or a YouTube link.
+
 
 
 </p>
-
-<p>When the user selects (taps) in any of the recipes a new view is displayed with the recipe’s details. If the recipe has a source or a YouTube channel the user can press the button and the app will redirect you to the site.
-You can go back to the app just press in the top of the left corner when the name of the app is displayed (Recipe).</p>
-<p>The app only displays the buttons if the recipe has a source or a YouTube link.</p>
 
 # Architecture
 <p>The recipe app is implemented using Model-View-View-Model (MVVM) architecture pattern.</p>
