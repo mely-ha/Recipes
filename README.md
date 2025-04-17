@@ -12,7 +12,7 @@
  A project that shows a list of recipes from different country’s cuisine types.
 
 # Description
-<p>The Recipe project has two tab option one is for  displays recipes from different country’s cuisine types and the other is about the company. It is designed using SwiftUI to take advantage of its capabilities.
+<p>The Recipe project has two tabs option one is for displays recipes from different country’s cuisine types and the other is about section. It is designed using SwiftUI to take advantage of its capabilities.
 
 The project consists of displaying a recipe list that shows the cuisine, name and photo of the recipe.
 <p align="center">
@@ -74,8 +74,9 @@ For this project I spent 7 hours divided into various days.
 
 # Trade-offs
 
-* I did not make the NetworkManager injected. 
-* I did not consider edgeCases and did not implement Pagination.
+* The NetworkManager could be injected instead of a Singleton. 
+* I did not consider edge Cases.
+* I did not implement Pagination.
 
 
 # Weaknest Part of the Project
